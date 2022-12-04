@@ -39,21 +39,15 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: 
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: 
-  - title: bitbucket
-    url: 
-  - title: github
-    url: 
-
+  - title: linkedin
+    url: https://www.linkedin.com/in/derrick-murphy-969557a9/
+  #- title: facebook
+  #  url:
+  
 # Postal address (add as many lines as necessary)
 address:
-  - line: New York,
-  - line: New York
+  - line: New York, New York
+  - line:
 
 # Credits content
 credits: 'Site created by <a style="color:#ffffff;" href="https://timwatro.us">Tim Watrous</a>.'
