@@ -56,7 +56,7 @@ address:
   - line: New York
 
 # Credits content
-credits: 'Site created by <a href="http://timwatro.us.com">Tim Watrous</a>.'
+credits: 'Site created by <a style="color:#ffffff;" href="https://timwatro.us">Tim Watrous</a>.'
 
 # Build settings
 markdown: kramdown
